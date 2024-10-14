@@ -16,6 +16,8 @@ Soy un apasionado analista de datos con experiencia en la interpretación y visu
 - Modelado de datos
 - Interpretación de resultados
 - Dashboarding y reporting
+- DAX y VBA
+- SQL
 
 ## Contacto
 ¡Estoy siempre abierto a nuevas oportunidades de colaboración! Puedes encontrarme en LinkedIn [aquí](https://www.linkedin.com/in/jos%C3%A9-carlos-letona-turcios/).
